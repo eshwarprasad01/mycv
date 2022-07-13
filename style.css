@@ -1,0 +1,28 @@
+body {
+  background-color: #EAF6F6;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 3px;
+  width: 5%;
+}
+h1 {
+  color: #66BFBF;
+  text-shadow:0 0 black;
+}
+h3 {
+  color: #66BFBF;
+  text-shadow:0 0 black;
+}
+
+
+.dp:hover {
+  background-color: #66BFBF;
+}
+
+
+/* #hobbies_heading {
+  color: black;
+} */
